@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: rgb(46, 45, 45);
+}
+
+section {
+  padding: 20px;
+  margin: 20px;
+  background-color: black;
+}
+
+.card-group {
+  margin: 15px;
+  transition: 0.7s ease;
+}
+
+.card {
+  margin: 25px;
+}
+
+.card:hover {
+  opacity: 0.3;
+}
+
+div.p {
+  text-align: center;
+}
